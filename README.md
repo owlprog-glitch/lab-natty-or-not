@@ -46,7 +46,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 -->
 
-# Natty ou Não? — Um Espelho Entre Humanos e Algoritmos
+### Natural ou Não? — Um Espelho Entre Humanos e Algoritmos
 
 ## 📌 Sobre o Projeto
 
@@ -68,7 +68,7 @@ O projeto consiste em um **ensaio reflexivo em formato de texto**, com linguagem
 
 ### 📄 Título do Ensaio
 
-**Natty ou Não?**
+**Natural ou Não?**
 
 ### ✍️ Texto
 
